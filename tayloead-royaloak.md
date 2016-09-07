@@ -2,7 +2,15 @@
 
 ###Great Places to Eat
 
+- Blackfinn is a legit lunch spot
+- Cantina Diablo's is a good dinner spot for Tex-Mex food
+- O'tooles is also a popular dinner spot with good drink specials
+
 ###Fun Things to do
 
+-Emagine is a big movie theatre with a bowling alley inside
+
 ###Places to go mountain biking
+
+-No idea
 
