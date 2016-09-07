@@ -15,3 +15,4 @@
 
 -Willow Metro Park
 
+- Kensington Park has some great trails
