@@ -2,8 +2,8 @@
 
 ### Great places to eat
 
--Moro's Italian - great Italian food Allen Park, MI
--Major Tomato - good thin crust pizza
+- Moro's Italian - great Italian food Allen Park, MI
+- Major Tomato - good thin crust pizza
 
 ### Fun things to do
 
@@ -13,6 +13,6 @@
 
 ### Places to go mountain biking or hiking
 
--Willow Metro Park
+- Willow Metro Park
 
 - Kensington Park has some great trails
