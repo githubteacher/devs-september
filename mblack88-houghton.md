@@ -4,6 +4,7 @@
 ### Great Places To Eat & Drink
 - Keweenaw Brewing Company (No Food Served, but who needs food)
 - Ambassador (Tostada Pizza)
-- B&B Bar (Pickled Eggs)
+- B&B Bar (Pickled Eggs)  
+
 ### Fun Things To Do
 ### Places To Go Mountain Biking (Tim Already Knows these)
