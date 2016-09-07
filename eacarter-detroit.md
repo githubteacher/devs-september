@@ -13,6 +13,8 @@
 -Visit the DIA
 -Explore downtown
 -Tigers Games
+-Visit GreekTown Casino
+-Explore Belle Isle
 -Lions Games
 
 
@@ -21,3 +23,4 @@
 -We aint got no mountains in Detroit
 
 
+SWIM in the detroit river?
