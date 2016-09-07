@@ -2,11 +2,11 @@
 ## Home Of The Huskies
 
 ### Great Places To Eat & Drink
-- The Fitz
 - Keweenaw Brewing Company (No Food Served, but who needs food)
 - Ambassador (Tostada Pizza)
 - B&B Bar (Pickled Eggs)  
 - Brick Yard Brewery (No Food, but great beer)
+- The Fitz
 
 ### Fun Things To Do
 - Visit Brockway Mountain Drive
