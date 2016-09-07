@@ -7,4 +7,6 @@
 
 ### Fun things to do
 - Martinis at the Blue Oyster
-- Browse comics at Value of Midnight
+- Browse comics at Vault of Midnight
+
+### End of File ... 
