@@ -21,3 +21,4 @@
 -We aint got no mountains in Detroit
 
 
+SWIM in the detroit river?
