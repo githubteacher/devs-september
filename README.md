@@ -18,3 +18,4 @@
 ### New Additions
 
 - [Adding branch to bash rc](https://gist.github.com/githubteacher/e75edf29d76571f8cc6c)
+- [Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
