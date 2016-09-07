@@ -7,4 +7,8 @@
 - B&B Bar (Pickled Eggs)  
 
 ### Fun Things To Do
+- Visit Brockway Mountain Drive
+- Visit McClain State Park
+- Visit the Keweenaw Rocket Range, east of Copper Harbor
+
 ### Places To Go Mountain Biking (Tim Already Knows these)
