@@ -6,7 +6,9 @@
 
 ### Fun things to do
 
-- The Henry Ford - Henry Ford Museum/Greenfield Village
+- The Henry Ford - Henry Ford Museum/Greenfield Village - historical village of places and large museum
+- Detroit Zoo - large zoo
+
 
 ### Places to go mountain biking
 
