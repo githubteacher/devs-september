@@ -13,6 +13,7 @@
 - [GitHub Guides - GitHub Flow](https://guides.github.com/introduction/flow/)
 - [GitHub Guides - Markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Pages](https://pages.github.com)
+- [GitHub Secrets](https://github.com/blog/967-github-secrets) references .patch and .diff
 
 ### New Additions
 
