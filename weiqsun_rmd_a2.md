@@ -2,7 +2,7 @@
 
 Where UofM is located
 
-### reat place for fun and entertainment
+### great place for fun and entertainment
 
 ### College Sports
 
