@@ -10,7 +10,14 @@
 
 ###Fun things to do
 
+-Visit the DIA
+-Explore downtown
+-Tigers Games
+-Lions Games
+
 
 ###Places to go mountain biking
+
+-We aint got no mountains in Detroit
 
 
