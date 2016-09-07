@@ -1,4 +1,5 @@
 # Welcome to GitHub for Developers
+*Supersecret edits removed
 
 ### Logistics
 
