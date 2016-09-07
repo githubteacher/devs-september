@@ -12,3 +12,5 @@
 - Visit the Keweenaw Rocket Range, east of Copper Harbor
 
 ### Places To Go Mountain Biking (Tim Already Knows these)
+
+### Bike Trails
