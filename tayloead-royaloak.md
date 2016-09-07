@@ -15,3 +15,5 @@
 -No idea
 -Still no idea
 
+###Jeff's comments
+-Michigan is a pretty cool state
