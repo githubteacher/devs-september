@@ -11,3 +11,6 @@
 1) Bike the Clinton River Trail & Paint Creek Trails
 2) Velodrome in Bloomer Park
 3) Walk along Main Street and visit Farmers Market during the summer 
+
+
+
