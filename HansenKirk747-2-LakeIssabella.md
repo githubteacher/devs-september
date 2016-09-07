@@ -8,3 +8,4 @@
 
  ### Things to do
  -learn git
+- go mountain biking
