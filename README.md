@@ -1,4 +1,5 @@
 # Welcome to GitHub for Developers
+*Supersecret edits removed
 
 ### Logistics
 
@@ -12,5 +13,7 @@
 - [GitHub Guides - GitHub Flow](https://guides.github.com/introduction/flow/)
 - [GitHub Guides - Markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Pages](https://pages.github.com)
-- 
+
 ### New Additions
+
+- [Adding branch to bash rc](https://gist.github.com/githubteacher/e75edf29d76571f8cc6c)
