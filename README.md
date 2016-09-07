@@ -1,4 +1,5 @@
-# Welcome to Vlad's Branch
+# Welcome to GitHub for Developers
+*Supersecret edits removed
 
 ### Logistics
 
