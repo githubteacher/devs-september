@@ -7,4 +7,8 @@
 
 ### Fun things to do
 
+- Downtown historic park
+
 ### Places to go mountain biking
+
+- Chain of public parks along Hines Drive
