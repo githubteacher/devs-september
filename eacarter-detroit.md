@@ -13,6 +13,8 @@
 -Visit the DIA
 -Explore downtown
 -Tigers Games
+-Visit GreekTown Casino
+-Explore Belle Isle
 -Lions Games
 
 
