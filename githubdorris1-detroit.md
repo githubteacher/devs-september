@@ -12,3 +12,4 @@
 
 ### Places to go mountain biking
 
+- Kensington Park has some great trails
